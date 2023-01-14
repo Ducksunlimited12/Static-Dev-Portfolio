@@ -1,0 +1,123 @@
+body {
+  background-image: url(img/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 15px 0;
+  
+}
+
+.lead, h1, h4{
+  color: white;
+}
+
+.my-header {
+  background:rgba(219, 219, 222, 0.906);
+  border-radius: 15px;
+  
+}
+
+.nav{
+  color: black;
+}
+
+.fa {
+    font-size: 50px;
+    width: 3rem;
+    padding: 0;
+    text-decoration: none;
+    border-radius: 50%;
+    color: #F5F6FB;
+  }
+
+.fa:hover {
+    opacity: 0.7;
+  }
+
+h2{
+  color: white;
+}
+
+h3, h5 {
+  text-decoration: underline;
+  }
+
+.about-h3{
+  color: white;
+}
+
+p{
+  color: white;
+  line-height: 32px;
+  font-weight: 900;
+}
+
+img{
+  border-radius: 25px;
+  padding: 10px;
+}
+
+img:hover{
+  cursor: all-scroll;
+}
+
+h3{
+  color: white;
+}
+h4{
+  color: black;
+}
+
+.icons{
+  color: white;
+}
+
+.media-description{
+  color: white;
+  width: 310px;
+  padding: 15px 5px;
+  
+}
+
+.row{
+border-radius: 15px;
+padding: 2rem 12rem;
+background: transparent;
+border-top: 1px solid white;
+}
+
+.card{
+  min-width: 300px;
+}
+
+.nav-link{
+  color: rgb(0, 37, 159);
+  padding: 10px 20px;
+  margin-bottom: 10px;
+}
+
+ .container{
+  width: 100%;
+  padding: 0 12rem;
+  align-items: center;
+ }
+
+.myImages {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    padding: 5px 10px 10px 0;
+    border-radius: 15px;
+    
+    
+}
+
+.nav-item {
+  background-color: none;
+  color: #fbfaf5c4;
+  border-radius: 5%;
+}
+
+.nav-pills {
+  color: #fbfaf5c4;
+}
